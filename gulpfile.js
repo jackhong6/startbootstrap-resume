@@ -6,6 +6,8 @@ var cleanCSS = require('gulp-clean-css');
 var rename = require("gulp-rename");
 var uglify = require('gulp-uglify');
 var pkg = require('./package.json');
+var newer = require('gulp-newer');
+var imagemin = require('gulp-imagemin');
 
 // Set the banner content
 var banner = ['/*!\n',
@@ -18,12 +20,12 @@ var banner = ['/*!\n',
 
 // Compiles SCSS files from /scss into /css
 gulp.task('sass', function() {
-  return gulp.src('scss/resume.scss')
+  return gulp.src('src/scss/resume.scss')
     .pipe(sass())
     .pipe(header(banner, {
       pkg: pkg
     }))
-    .pipe(gulp.dest('css'))
+    .pipe(gulp.dest('build/css'))
     .pipe(browserSync.reload({
       stream: true
     }))
@@ -31,14 +33,14 @@ gulp.task('sass', function() {
 
 // Minify compiled CSS
 gulp.task('minify-css', ['sass'], function() {
-  return gulp.src('css/resume.css')
+  return gulp.src('src/css/resume.css')
     .pipe(cleanCSS({
       compatibility: 'ie8'
     }))
     .pipe(rename({
       suffix: '.min'
     }))
-    .pipe(gulp.dest('css'))
+    .pipe(gulp.dest('build/css'))
     .pipe(browserSync.reload({
       stream: true
     }))
@@ -46,7 +48,7 @@ gulp.task('minify-css', ['sass'], function() {
 
 // Minify custom JS
 gulp.task('minify-js', function() {
-  return gulp.src('js/resume.js')
+  return gulp.src('src/js/resume.js')
     .pipe(uglify())
     .pipe(header(banner, {
       pkg: pkg
@@ -54,10 +56,19 @@ gulp.task('minify-js', function() {
     .pipe(rename({
       suffix: '.min'
     }))
-    .pipe(gulp.dest('js'))
+    .pipe(gulp.dest('build/js'))
     .pipe(browserSync.reload({
       stream: true
     }))
+});
+
+// image processing
+gulp.task('images', function() {
+    var out = 'build/img/';
+    return gulp.src('src/img/**/*')
+        .pipe(newer(out))
+        .pipe(imagemin({ optimizationLevel: 5 }))
+        .pipe(gulp.dest(out));
 });
 
 // Copy vendor files from /node_modules into /vendor
@@ -69,13 +80,13 @@ gulp.task('copy', function() {
       '!**/bootstrap-theme.*',
       '!**/*.map'
     ])
-    .pipe(gulp.dest('vendor/bootstrap'))
+    .pipe(gulp.dest('build/vendor/bootstrap'));
 
   gulp.src(['node_modules/jquery/dist/jquery.js', 'node_modules/jquery/dist/jquery.min.js'])
-    .pipe(gulp.dest('vendor/jquery'))
+    .pipe(gulp.dest('build/vendor/jquery'));
 
   gulp.src(['node_modules/jquery.easing/*.js'])
-    .pipe(gulp.dest('vendor/jquery-easing'))
+    .pipe(gulp.dest('build/vendor/jquery-easing'));
 
   gulp.src([
       'node_modules/font-awesome/**',
@@ -85,7 +96,7 @@ gulp.task('copy', function() {
       '!node_modules/font-awesome/*.md',
       '!node_modules/font-awesome/*.json'
     ])
-    .pipe(gulp.dest('vendor/font-awesome'))
+    .pipe(gulp.dest('build/vendor/font-awesome'));
 
   gulp.src([
       'node_modules/devicons/**/*',
@@ -96,11 +107,11 @@ gulp.task('copy', function() {
       '!node_modules/devicons/!SVG',
       '!node_modules/devicons/!SVG/**/*'
     ])
-    .pipe(gulp.dest('vendor/devicons'))
+    .pipe(gulp.dest('build/vendor/devicons'));
 
   gulp.src(['node_modules/simple-line-icons/**/*', '!node_modules/simple-line-icons/*.json', '!node_modules/simple-line-icons/*.md'])
-    .pipe(gulp.dest('vendor/simple-line-icons'))
-})
+    .pipe(gulp.dest('build/vendor/simple-line-icons'))
+});
 
 // Default task
 gulp.task('default', ['sass', 'minify-css', 'minify-js', 'copy']);
@@ -110,16 +121,18 @@ gulp.task('browserSync', function() {
   browserSync.init({
     server: {
       baseDir: ''
-    },
+    }
   })
-})
+});
 
 // Dev task with browserSync
 gulp.task('dev', ['browserSync', 'sass', 'minify-css', 'minify-js'], function() {
-  gulp.watch('scss/*.scss', ['sass']);
-  gulp.watch('css/*.css', ['minify-css']);
-  gulp.watch('js/*.js', ['minify-js']);
+  gulp.watch('src/scss/*.scss', ['sass']);
+  gulp.watch('src/css/*.css', ['minify-css']);
+  gulp.watch('src/js/*.js', ['minify-js']);
+  gulp.watch('src/img/**/*', ['images']);
+
   // Reloads the browser whenever HTML or JS files change
   gulp.watch('*.html', browserSync.reload);
-  gulp.watch('js/**/*.js', browserSync.reload);
+  gulp.watch('src/js/**/*.js', browserSync.reload);
 });
