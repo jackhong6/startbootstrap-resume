@@ -2,88 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d23efc9-f64e-4c74-94e2-5c6129bf8816" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/css/resume.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/resume.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change beforePath="$PROJECT_DIR$/img/profile.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/build/css/resume.min.css" afterPath="$PROJECT_DIR$/build/css/resume.min.css" />
+      <change beforePath="$PROJECT_DIR$/build/img/kite.xcf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/kite_colored.xcf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/telescopes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/About_WebScreenSignaturePackage_v1.0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/PleaseRead_SignatureGuide/UBC_Signature_Guide_2016_1.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/1_2016_UBCStandard_signature/A_Blue282/1_2016_UBCStandard_Signature_BlueRGB72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/1_2016_UBCStandard_signature/A_Blue282/1_2016_UBCStandard_Signature_BlueRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/1_2016_UBCStandard_signature/B_Black/1_2016_UBCStandard_Signature_BlackRGB72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/1_2016_UBCStandard_signature/B_Black/1_2016_UBCStandard_Signature_BlackRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/1_2016_UBCStandard_signature/C_Reverse/1_2016_UBCStandard_Signature_ReverseRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/2_2016_UBCNarrow_signature/A_Blue282/2_2016_UBCNarrow_Signature_BlueRGB72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/2_2016_UBCNarrow_signature/A_Blue282/2_2016_UBCNarrow_Signature_BlueRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/2_2016_UBCNarrow_signature/B_Black/2_2016_UBCNarrow_Signature_BlackRGB72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/2_2016_UBCNarrow_signature/B_Black/2_2016_UBCNarrow_Signature_BlackRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/2_2016_UBCNarrow_signature/C_Reverse/2_2016_UBCNarrow_Signature_ReverseRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/3_2016_UBCWordmark/A_Blue282/3_2016_UBCWordmark_Blue282RGB72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/3_2016_UBCWordmark/A_Blue282/3_2016_UBCWordmark_Blue282RGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/3_2016_UBCWordmark/B_Black/3_2016_UBCWordmark_BlackRGB72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/3_2016_UBCWordmark/B_Black/3_2016_UBCWordmark_BlackRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/3_2016_UBCWordmark/C_Reverse/3_2016_UBCWordmark_ReverseRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/4_2016_UBCLogo/A_Blue282/4_2016_UBCLogo_BlueRGB72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/4_2016_UBCLogo/A_Blue282/4_2016_UBCLogo_BlueRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/4_2016_UBCLogo/B_Black/4_2016_UBCLogo_BlackRGB72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/4_2016_UBCLogo/B_Black/4_2016_UBCLogo_BlackRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/4_2016_UBCLogo/C_Reverse/4_2016_UBCLogo_ReverseRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/5_2016_UBCShortname/A_Blue282/5_2016Shortname_Blue282RGB72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/5_2016_UBCShortname/A_Blue282/5_2016Shortname_Blue282RGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/5_2016_UBCShortname/B_Black/5_2016_UBCShortname_BlackRGB72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/5_2016_UBCShortname/B_Black/5_2016_UBCShortname_BlackRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/5_2016_UBCShortname/C_Reverse/5_2016_UBCShortname_ReverseRGB72.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/resume.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/resume.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/scss/_bootstrap-overrides.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/_global.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/_mixins.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/_nav.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/_resume-item.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/resume.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/devicons/css/devicons.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/devicons/css/devicons.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/devicons/css/devicons.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/devicons/fonts/devicons.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/devicons/fonts/devicons.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/devicons/fonts/devicons.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/devicons/fonts/devicons.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/animated.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/bordered-pulled.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/core.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/fixed-width.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/font-awesome.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/icons.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/larger.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/list.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/mixins.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/path.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/rotated-flipped.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/screen-reader.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/stacked.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/variables.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_animated.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_core.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_fixed-width.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_icons.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_larger.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_list.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_mixins.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_path.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_screen-reader.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_stacked.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_variables.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/font-awesome.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.compatibility.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/simple-line-icons/css/simple-line-icons.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/simple-line-icons/less/simple-line-icons.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/simple-line-icons/scss/simple-line-icons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/css/resume.css" afterPath="$PROJECT_DIR$/src/css/resume.css" />
+      <change beforePath="$PROJECT_DIR$/src/img/kite.xcf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/kite_colored.xcf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/telescopes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/About_WebScreenSignaturePackage_v1.0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/PleaseRead_SignatureGuide/UBC_Signature_Guide_2016_1.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/1_2016_UBCStandard_signature/A_Blue282/1_2016_UBCStandard_Signature_BlueRGB72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/1_2016_UBCStandard_signature/A_Blue282/1_2016_UBCStandard_Signature_BlueRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/1_2016_UBCStandard_signature/B_Black/1_2016_UBCStandard_Signature_BlackRGB72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/1_2016_UBCStandard_signature/B_Black/1_2016_UBCStandard_Signature_BlackRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/1_2016_UBCStandard_signature/C_Reverse/1_2016_UBCStandard_Signature_ReverseRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/2_2016_UBCNarrow_signature/A_Blue282/2_2016_UBCNarrow_Signature_BlueRGB72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/2_2016_UBCNarrow_signature/A_Blue282/2_2016_UBCNarrow_Signature_BlueRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/2_2016_UBCNarrow_signature/B_Black/2_2016_UBCNarrow_Signature_BlackRGB72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/2_2016_UBCNarrow_signature/B_Black/2_2016_UBCNarrow_Signature_BlackRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/2_2016_UBCNarrow_signature/C_Reverse/2_2016_UBCNarrow_Signature_ReverseRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/3_2016_UBCWordmark/A_Blue282/3_2016_UBCWordmark_Blue282RGB72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/3_2016_UBCWordmark/A_Blue282/3_2016_UBCWordmark_Blue282RGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/3_2016_UBCWordmark/B_Black/3_2016_UBCWordmark_BlackRGB72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/3_2016_UBCWordmark/B_Black/3_2016_UBCWordmark_BlackRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/3_2016_UBCWordmark/C_Reverse/3_2016_UBCWordmark_ReverseRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/4_2016_UBCLogo/A_Blue282/4_2016_UBCLogo_BlueRGB72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/4_2016_UBCLogo/A_Blue282/4_2016_UBCLogo_BlueRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/4_2016_UBCLogo/B_Black/4_2016_UBCLogo_BlackRGB72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/4_2016_UBCLogo/B_Black/4_2016_UBCLogo_BlackRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/4_2016_UBCLogo/C_Reverse/4_2016_UBCLogo_ReverseRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/5_2016_UBCShortname/A_Blue282/5_2016Shortname_Blue282RGB72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/5_2016_UBCShortname/A_Blue282/5_2016Shortname_Blue282RGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/5_2016_UBCShortname/B_Black/5_2016_UBCShortname_BlackRGB72.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/5_2016_UBCShortname/B_Black/5_2016_UBCShortname_BlackRGB72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/5_2016_UBCShortname/C_Reverse/5_2016_UBCShortname_ReverseRGB72.png" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -103,8 +85,8 @@
       <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-828">
-              <caret line="34" column="46" lean-forward="true" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+            <state relative-caret-position="510">
+              <caret line="34" column="46" lean-forward="false" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -113,10 +95,23 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="59" column="17" lean-forward="false" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+            <state relative-caret-position="115">
+              <caret line="17" column="87" lean-forward="true" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#3138#3146#0" expanded="true" />
+                <element signature="e#3162#3170#0" expanded="true" />
+                <element signature="e#7357#7364#0" expanded="true" />
+                <element signature="e#8380#8385#0" expanded="true" />
+                <element signature="e#8393#8398#0" expanded="true" />
+                <element signature="e#8539#8546#0" expanded="true" />
+                <element signature="e#9053#9060#0" expanded="true" />
+                <element signature="e#9199#9206#0" expanded="true" />
+                <element signature="e#9332#9339#0" expanded="true" />
+                <element signature="e#9561#9568#0" expanded="true" />
+                <element signature="e#10440#10447#0" expanded="true" />
+                <element signature="e#11241#11248#0" expanded="true" />
+                <element signature="e#12349#12356#0" expanded="true" />
+                <element signature="e#13541#13548#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -125,8 +120,8 @@
       <file leaf-file-name="resume.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/css/resume.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="117" column="19" lean-forward="false" selection-start-line="117" selection-start-column="19" selection-end-line="117" selection-end-column="19" />
+            <state relative-caret-position="428">
+              <caret line="116" column="11" lean-forward="true" selection-start-line="116" selection-start-column="11" selection-end-line="116" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -137,16 +132,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build/vendor/bootstrap/css/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="158" column="6" lean-forward="false" selection-start-line="158" selection-start-column="3" selection-end-line="158" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -172,14 +157,36 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/vendor/bootstrap/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="7696" column="5" lean-forward="false" selection-start-line="7696" selection-start-column="3" selection-end-line="7696" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>src</find>
       <find>edu</find>
+      <find>interests</find>
+      <find>id=&quot;interests&quot;</find>
+      <find>m-lg</find>
+      <find>mb</find>
+      <find>resume-date</find>
+      <find>mdash</find>
+      <find>pdf</find>
       <find>dest</find>
+      <find>educa</find>
+      <find>date</find>
     </findStrings>
+    <replaceStrings>
+      <replace>ndash</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -386,20 +393,20 @@
       <updated>1513898718867</updated>
       <workItem from="1513898720176" duration="2213000" />
       <workItem from="1513906832830" duration="296000" />
-      <workItem from="1513907386612" duration="14401000" />
+      <workItem from="1513907386612" duration="42154000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16910000" />
+    <option name="totallyTimeSpent" value="44663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="CSS Styles" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25158563" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="CSS Styles" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25158563" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -509,14 +516,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/vendor/bootstrap/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="158" column="6" lean-forward="false" selection-start-line="158" selection-start-column="3" selection-end-line="158" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build/vendor/bootstrap/css/bootstrap-grid.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -533,28 +532,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/resume.css">
+    <entry file="file://$PROJECT_DIR$/build/vendor/bootstrap/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="117" column="19" lean-forward="false" selection-start-line="117" selection-start-column="19" selection-end-line="117" selection-end-column="19" />
+        <state relative-caret-position="17285">
+          <caret line="5" column="93242" lean-forward="false" selection-start-line="5" selection-start-column="93242" selection-end-line="5" selection-end-column="93242" />
+          <folding>
+            <element signature="e#51727#51927#2" expanded="false" />
+            <element signature="e#52049#52198#2" expanded="false" />
+            <element signature="e#52344#52490#2" expanded="false" />
+            <element signature="e#52915#53078#1" expanded="false" />
+            <element signature="e#62330#62573#2" expanded="false" />
+            <element signature="e#63440#63689#2" expanded="false" />
+            <element signature="e#89389#89579#2" expanded="false" />
+            <element signature="e#89625#89815#2" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/vendor/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="7696" column="5" lean-forward="false" selection-start-line="7696" selection-start-column="3" selection-end-line="7696" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/vendor/font-awesome/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="3" column="19213" lean-forward="false" selection-start-line="3" selection-start-column="19213" selection-end-line="3" selection-end-column="19213" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-828">
-          <caret line="34" column="46" lean-forward="true" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        <state relative-caret-position="510">
+          <caret line="34" column="46" lean-forward="false" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/resume.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="116" column="11" lean-forward="true" selection-start-line="116" selection-start-column="11" selection-end-line="116" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="59" column="17" lean-forward="false" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+        <state relative-caret-position="115">
+          <caret line="17" column="87" lean-forward="true" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#3138#3146#0" expanded="true" />
+            <element signature="e#3162#3170#0" expanded="true" />
+            <element signature="e#7357#7364#0" expanded="true" />
+            <element signature="e#8380#8385#0" expanded="true" />
+            <element signature="e#8393#8398#0" expanded="true" />
+            <element signature="e#8539#8546#0" expanded="true" />
+            <element signature="e#9053#9060#0" expanded="true" />
+            <element signature="e#9199#9206#0" expanded="true" />
+            <element signature="e#9332#9339#0" expanded="true" />
+            <element signature="e#9561#9568#0" expanded="true" />
+            <element signature="e#10440#10447#0" expanded="true" />
+            <element signature="e#11241#11248#0" expanded="true" />
+            <element signature="e#12349#12356#0" expanded="true" />
+            <element signature="e#13541#13548#0" expanded="true" />
           </folding>
         </state>
       </provider>

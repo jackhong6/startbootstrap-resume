@@ -115,9 +115,34 @@ a {
     color: #3F0D12; }
 
 .ubc-logo {
+    max-width: 100%;
+    height: auto;
+    padding: 5px;
+    /*width: 104px;
+    height: 141px;*/
+}
+
+.mcroberts-logo {
+    max-width: 100%;
+    height: auto;
+    /*width: 119px;
+    height: 106px;*/
+}
+
+.school-logos {
+    width: 9rem;
     margin-right: 2rem;
     margin-bottom: 1rem;
-    overflow: hidden;
-    width: 99px;
-    height: 135px;
+}
+
+.chess-com-logo {
+    height: 3rem;
+}
+
+.chess-com-div {
+    margin-top: 5rem;
+}
+
+.card-deck {
+    margin-bottom: 1em;
 }

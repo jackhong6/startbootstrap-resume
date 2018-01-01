@@ -5,7 +5,7 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="resume, portfolio">
+    <meta name="description" content="Jack Hong's online portfolio">
     <meta name="author" content="Jack Hong">
 
     <title>Jack Hong</title>
@@ -17,6 +17,7 @@
     <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
     <link href="build/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="icon" href="build/img/favicon.ico">
     <link href="build/vendor/devicons/css/devicons.min.css" rel="stylesheet">
     <link href="build/vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
 
@@ -53,7 +54,7 @@
                 <a class="nav-link js-scroll-trigger" href="#course_projects">Course Projects</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
+                <a class="nav-link js-scroll-trigger" href="#lab_reports">Lab Reports</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
@@ -69,15 +70,28 @@
             <h1 class="mb-0">Jack
                 <span class="text-primary">Hong</span>
             </h1>
-            <div class="subheading mb-5">Richmond, British Columbia · (604) 379-8772 ·
+            <div class="subheading mb-5">Richmond, British Columbia &middot; (604) 379-8772 &middot;
                 <a href="mailto:jhong@alumni.ubc.ca">jhong@alumni.ubc.ca</a>
             </div>
-            <p class="mb-5">
+            <p>
+                Welcome to my online portfolio!
                 I am a fourth year undergraduate physics and astronomy student at the University of British Columbia. My goal is to go to
                 graduate school for particle physics, and I am currently looking for opportunities to get into research.
-                I am eligible for NSERC awards and will be available this summer (2018). If you think I might be a good
-                match for an opportunity, please don't hesitate to reach out!
+                I am eligible for NSERC awards and will be available to work this summer (2018). If you think I might be a good
+                match for a research opportunity, please don't hesitate to reach out!
             </p>
+            <p>
+                Here are my resume and transcript, but the rest of this website is a more detailed description of
+                everything on there:
+            </p>
+            <ul class="fa-ul mb-5">
+                <li><a href="documents/JackHong_Resume.pdf">
+                    <i class="fa-li fa fa-file-pdf-o"></i>Resume
+                </a></li>
+                <li><a href="documents/JackHong_Transcript.pdf">
+                    <i class="fa-li fa fa-file-pdf-o"></i>Transcript
+                </a></li>
+            </ul>
             <ul class="list-inline list-social-icons mb-0">
                 <li class="list-inline-item">
                     <a href="http://www.facebook.com/jackhong6">
@@ -118,48 +132,91 @@
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
         <div class="my-auto">
             <h2 class="mb-5">Experience</h2>
-
+            <h3 class="mb-3 text-primary">Research Experience</h3>
             <div class="resume-item d-flex flex-column flex-md-row mb-5">
                 <div class="resume-content mr-auto">
-                    <h3 class="mb-0">Senior Web Developer</h3>
-                    <div class="subheading mb-3">Intelitec Solutions</div>
-                    <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+                    <h3 class="mb-0">Summer research student</h3>
+                    <div class="subheading mb-3">University of Toronto</div>
+                    <p>
+                        Last summer, I went to the University of Toronto to participate in the SURP program.
+                        I worked with <a href="http://astro.utoronto.ca/~bovy/">Professor Jo Bovy</a>
+                        to develop a Python class to represent the gravitational potential of the spiral
+                        arms of galaxies in the <a href="https://github.com/jobovy/galpy">galpy</a> open source
+                        Python library. I also wrote a comprehensive test suite using pytest to make sure my program
+                        works as intended. Furthemore, I used my code to investigate the effects of spiral arms
+                        on the Oort constants. I learned a lot about doing actual research and working in a small research team.
+                    </p>
                 </div>
                 <div class="resume-date text-md-right">
-                    <span class="text-primary">March 2013 - Present</span>
+                    <span>May 2017 &ndash; August 2017</span>
                 </div>
             </div>
 
             <div class="resume-item d-flex flex-column flex-md-row mb-5">
                 <div class="resume-content mr-auto">
-                    <h3 class="mb-0">Web Developer</h3>
-                    <div class="subheading mb-3">Intelitec Solutions</div>
-                    <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
+                    <h3 class="mb-0">Summer research student</h3>
+                    <div class="subheading mb-0">National Institute of Nanotechnology (Edmonton, Alberta)</div>
+                    <p>
+                        Worked with
+                        <a href="https://sites.google.com/site/temsemeels/marek-malac">Professor Marek Malak</a>
+                        to develop and test a micro-controller based on the
+                        Intel Galileo Gen 2 Development Board (Arduino) for the Hitachi 3D Tomography Holder used in
+                        electron microscopes. Programmed the controller in the Arduino language and MATLAB to work
+                        with the existing microscopy software (Maestro). Improved the rotation angle resolution of the
+                        tomography holder from 1&deg; to 0.25&deg;.
+                    </p>
                 </div>
                 <div class="resume-date text-md-right">
-                    <span class="text-primary">December 2011 - March 2013</span>
+                    <span>May 2016 &ndash; August 2016</span>
                 </div>
             </div>
 
+            <h3 class="mb-3 text-primary">Work Experience</h3>
             <div class="resume-item d-flex flex-column flex-md-row mb-5">
                 <div class="resume-content mr-auto">
-                    <h3 class="mb-0">Junior Web Designer</h3>
-                    <div class="subheading mb-3">Shout! Media Productions</div>
-                    <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>
+                    <h3 class="mb-0">Undergraduate Teaching Assistant</h3>
+                    <div class="subheading mb-3">University of British Columbia</div>
+                    <ul>
+                        <li>PHYS 109: Enriched Experimental Physics &mdash; help students in labs, mark lab books (Jan - Apr 2016 and Jan - Apr 2017)</li>
+                        <li>PHYS 100: Introductory Physics &mdash; led a tutorial section, marked exams (Sep 2017 - Dec 2017)</li>
+                        <li>CPSC 101: Computational Thinking &mdash; led two lab sections, marked projects and exams (Sep 2014 - Dec 2014)</li>
+                    </ul>
                 </div>
                 <div class="resume-date text-md-right">
-                    <span class="text-primary">July 2010 - December 2011</span>
+                    <span>September 2014 &ndash; Present</span>
                 </div>
             </div>
 
             <div class="resume-item d-flex flex-column flex-md-row">
                 <div class="resume-content mr-auto">
-                    <h3 class="mb-0">Web Design Intern</h3>
-                    <div class="subheading mb-3">Shout! Media Productions</div>
-                    <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
+                    <h3 class="mb-0">Lifeguard & Swimming Instructor</h3>
+                    <div class="subheading mb-3">City of Richmond</div>
+                    <p>
+                    I started working as a lifeguard during my grade 12 year.
+                    </p>
+                    <ul>
+                        <li>Supervise pools, treat first aids,respond to patron concerns, perform water tests, and clean change rooms</li>
+                        <li>Teach the Red Cross Swim Programs, including preschool, kids, teens, and adults.</li>
+                    </ul>
                 </div>
                 <div class="resume-date text-md-right">
-                    <span class="text-primary">September 2008 - June 2010</span>
+                    <span>May 2013 &ndash; Present</span>
+                </div>
+            </div>
+
+            <div class="resume-item d-flex flex-column flex-md-row">
+                <div class="resume-content mr-auto">
+                    <h3 class="mb-0">Software Test Specialist</h3>
+                    <div class="subheading mb-3">IBM</div>
+                    <p></p>
+                    <ul>
+                        <li>Wrote and maintained JUnit 4 and Selenium Webdriver 2.0 tests for IBM Forms Experience Builder
+                            software.</li>
+                        <li>Submitted detailed bug reports that accurately and concisely described the problems found.</li>
+                    </ul>
+                </div>
+                <div class="resume-date text-md-right">
+                    <span>January 2016 &ndash; April 2016</span>
                 </div>
             </div>
 
@@ -172,9 +229,13 @@
             <h2 class="mb-5">Education</h2>
 
             <div class="resume-item d-flex flex-column flex-md-row mb-5">
-                <img src="build/img/ubc_logos/Screen%20and%20Web%20Files/4_2016_UBCLogo/B_Black/4_2016_UBCLogo_BlackRGB72.png"
-                     class="ubc-logo"
-                     alt="UBC">
+                <div class="school-logos">
+                   <a href="https://www.ubc.ca">
+                       <img src="build/img/UBC_logo.png"
+                        class="ubc-logo"
+                        alt="UBC">
+                   </a>
+                </div>
                 <div class="resume-content mr-auto">
                     <h3 class="mb-0">University of British Columbia</h3>
                     <div class="subheading mb-3">Bachelor of Science. Year 4.</div>
@@ -184,7 +245,33 @@
                 </div>
 
                 <div class="resume-date text-md-right">
-                    <span class="text-primary">September 2013 - Present</span>
+                    <span>September 2013 &ndash; Present</span>
+                </div>
+            </div>
+
+            <div class="resume-item d-flex flex-column flex-md-row mb-5">
+                <div class="school-logos">
+                    <a href="http://mcroberts.sd38.bc.ca">
+                        <img src="build/img/mcroberts-logo.jpg"
+                             class="mcroberts-logo"
+                             alt="McRoberts secondary school logo">
+                    </a>
+                </div>
+
+                <div class="resume-content mr-auto">
+                    <h3 class="mb-0">Hugh McRoberts Secondary School</h3>
+                    <div class="subheading mb-3">
+                        <a href="https://www2.gov.bc.ca/gov/content/education-training/k-12/support/graduation/certificate-of-graduation-2004"
+                        >
+                            Double Dogwood Diploma
+                        </a>
+                    </div>
+                    <div>Completed the French Immersion Program and graduated with honours</div>
+                    <div>Graduation class of 2013</div>
+                </div>
+
+                <div class="resume-date text-md-right">
+                    <span>2008 &ndash; 2013</span>
                 </div>
             </div>
 
@@ -195,75 +282,147 @@
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="course_projects">
         <div class="my-auto">
             <h2 class="mb-5">Course Projects</h2>
+            <div class="subheading mb-5">All code files to can be found at
+                <a href="http://www.github.com/jackhong6">http://www.github.com/jackhong6</a>
+            </div>
 
-            <div class="card" style="width: 20rem;">
-                <img class="card-img-top" src="..." alt="Card image cap">
-                <div class="card-block">
-                    <h4 class="card-title">Card title</h4>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a>
+            <div class="card-deck">
+                <div class="card">
+                    <img class="card-img-top" src="build/img/n_square_wells.png" alt="n square wells">
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            Bound states of the N-square potential well
+                        </h4>
+                        <p class="card-text">
+                            Used the propagator method to calculate the bound states of an electron
+                            in N square potential wells.
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">MATLAB</small>
+                    </div>
+                </div>
+                <div class="card">
+                    <img class="card-img-top" src="build/img/ising.png" alt="ising model">
+                    <div class="card-body">
+                        <h4 class="card-title">2D Ising Model</h4>
+                        <p class="card-text">
+                            Determined the Curied temperature of the 2D Ising model
+                            using Monte Carlo methods.
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">MATLAB</small>
+                    </div>
+                </div>
+                <div class="card">
+                    <img class="card-img-top" src="build/img/poincare.png" alt="poincare section">
+                    <div class="card-body">
+                        <h4 class="card-title">Driven damped pendulum motion</h4>
+                        <p class="card-text">
+                            Used the Runge-Kutta method to solve the differential equation for a
+                            driven, damped pendulum. Examined unforced damped motion with under-damped,
+                            critically-damped, and over-damped motions. Examined the stable and unstable
+                            manifolds of the pendulum using poincare sections.
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">MATLAB</small>
+                    </div>
+                </div>
+            </div>
+            <div class="card-deck">
+                <div class="card">
+                    <img class="card-img-top" src="build/img/infection.png" alt="virus infection simulation">
+                    <div class="card-body">
+                        <h4 class="card-title">Virus Infection Simulation</h4>
+                        <p class="card-text">
+                            Bla bla bla.
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">MATLAB</small>
+                    </div>
+                </div>
+                <div class="card">
+                    <img class="card-img-top" src="build/img/projectile.png" alt="projectile motion">
+                    <div class="card-body">
+                        <h4 class="card-title">Projectile motion with air drag</h4>
+                        <p class="card-text">
+                            Solved the differential equation for projectile motion with air drag on the surface of
+                            the Earth using the odeint function from the scipy.optimize library. Computed the path for
+                            various launch angles and initial velocities and plotted various quantities of interest.
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">Python</small>
+                    </div>
+                </div>
+                <div class="card">
+                    <img class="card-img-top" src="build/img/skydive.png" alt="skydive">
+                    <div class="card-body">
+                        <h4 class="card-title">Simulation of Felix Baumgartner's 2012 WR jump</h4>
+                        <p class="card-text">
+                            Computed and plotted the free fall and parachute phases of a sky dive jump from an altitude
+                            of approximately 40km using SciPy's odeint for numerical integration.
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">Python</small>
+                    </div>
+                </div>
+            </div>
+            <div class="card-deck">
+                <div class="card">
+                    <img class="card-img-top" src="build/img/forest_fire.png" alt="Forest fire">
+                    <div class="card-body">
+                        <h4 class="card-title">Forest fire model</h4>
+                        <p class="card-text">
+                            Created an animation of the
+                            <a href="https://en.wikipedia.org/wiki/Forest-fire_model">forest fire model</a>.
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">Python</small>
+                    </div>
+                </div>
+                <div class="card">
+                    <img class="card-img-top" src="build/img/brownian.png" alt="brownian motion">
+                    <div class="card-body">
+                        <h4 class="card-title">Brownian motion</h4>
+                        <p class="card-text">
+                            Created an animation of brownian motion using a simple model.
+                            Verified that the distance travelled by the particle is proportional to the square root of time.
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">Python</small>
+                    </div>
+                </div>
+                <div class="card">
+                    <img class="card-img-top" src="build/img/orbits.png" alt="orbits">
+                    <div class="card-body">
+                        <h4 class="card-title">Solar System</h4>
+                        <p class="card-text">
+                            Numerically solved the equations of motion for a many body system and simulated the
+                            orbit of planets using average values as initial conditions.
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">Python</small>
+                    </div>
                 </div>
             </div>
 
         </div>
     </section>
 
-    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
+    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="lab_reports">
         <div class="my-auto">
-            <h2 class="mb-5">Skills</h2>
-
-            <div class="subheading mb-3">Programming Languages &amp; Tools</div>
-            <ul class="list-inline list-icons">
-                <li class="list-inline-item">
-                    <i class="devicons devicons-html5"></i>
-                </li>
-                <li class="list-inline-item">
-                    <i class="devicons devicons-css3"></i>
-                </li>
-                <li class="list-inline-item">
-                    <i class="devicons devicons-javascript"></i>
-                </li>
-                <li class="list-inline-item">
-                    <i class="devicons devicons-jquery"></i>
-                </li>
-                <li class="list-inline-item">
-                    <i class="devicons devicons-sass"></i>
-                </li>
-                <li class="list-inline-item">
-                    <i class="devicons devicons-less"></i>
-                </li>
-                <li class="list-inline-item">
-                    <i class="devicons devicons-bootstrap"></i>
-                </li>
-                <li class="list-inline-item">
-                    <i class="devicons devicons-wordpress"></i>
-                </li>
-                <li class="list-inline-item">
-                    <i class="devicons devicons-grunt"></i>
-                </li>
-                <li class="list-inline-item">
-                    <i class="devicons devicons-gulp"></i>
-                </li>
-                <li class="list-inline-item">
-                    <i class="devicons devicons-npm"></i>
-                </li>
-            </ul>
-
-            <div class="subheading mb-3">Workflow</div>
-            <ul class="fa-ul mb-0">
-                <li>
-                    <i class="fa-li fa fa-check"></i>
-                    Mobile-First, Responsive Design</li>
-                <li>
-                    <i class="fa-li fa fa-check"></i>
-                    Cross Browser Testing &amp; Debugging</li>
-                <li>
-                    <i class="fa-li fa fa-check"></i>
-                    Cross Functional Teams</li>
-                <li>
-                    <i class="fa-li fa fa-check"></i>
-                    Agile Development &amp; Scrum</li>
-            </ul>
+            <h2 class="mb-5">Lab Reports</h2>
+            <p>
+                Here, are the lab reports I wrote for my second and third year physics lab courses.
+            </p>
         </div>
     </section>
 
@@ -271,12 +430,30 @@
         <div class="my-auto">
             <h2 class="mb-5">Interests</h2>
             <p>
-                Apart from physics, I like playing chess, video games, and watching netflix.
+                Apart from physics, I like playing <a href="https://www.chess.com">chess online</a> and watching
+                <a href="https://youtu.be/BrcGhN8oBr4">chess videos on
+                Youtube</a>. I'm just starting out, but I'm really enjoying the game.
+                As white, I like starting with 1.d4 and going for a queen's gambit line. As black, I like playing
+                the <a href="https://youtu.be/BcdHe_JJhQM?t=12s">sicilian Najdorf
+                variation</a> because of the sharp lines and exciting exchange sacrifices. I'm quite terrible at end games,
+                and in bullet chess I am still often <a href="https://youtu.be/EY27lgnPKWI?t=1m41s">too weak, too slow</a>, but I am
+                steadily improving. I am looking forward to entering my first real chess tournament soon.
+                My favorite chess player is <a href="https://youtu.be/VSkusY_9UBw">Yasser Seirawan</a>.
             </p>
             <p class="mb-0">
-                When I feel restless and in need of some exercise, I like to run, swim, or just go to the gym.
+                I am also interested in staving off physical atrophy and disease, and in that vein,
+                I sometimes like to run, swim, or just go to the gym. I am currently training for the Sun Run in April.
             </p>
+
+            <div class="chess-com-div">
+                <a href="https://www.chess.com/member/jackhong6">
+                    <img src="build/img/chess-com-logo.png"
+                         class="chess-com-logo"
+                         alt="chess.com logo">
+                </a>
+            </div>
         </div>
+
     </section>
 
 </div>
