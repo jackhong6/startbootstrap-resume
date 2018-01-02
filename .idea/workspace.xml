@@ -2,70 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d23efc9-f64e-4c74-94e2-5c6129bf8816" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/build/css/resume.min.css" afterPath="$PROJECT_DIR$/build/css/resume.min.css" />
-      <change beforePath="$PROJECT_DIR$/build/img/kite.xcf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/kite_colored.xcf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/telescopes.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/About_WebScreenSignaturePackage_v1.0.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/PleaseRead_SignatureGuide/UBC_Signature_Guide_2016_1.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/1_2016_UBCStandard_signature/A_Blue282/1_2016_UBCStandard_Signature_BlueRGB72.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/1_2016_UBCStandard_signature/A_Blue282/1_2016_UBCStandard_Signature_BlueRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/1_2016_UBCStandard_signature/B_Black/1_2016_UBCStandard_Signature_BlackRGB72.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/1_2016_UBCStandard_signature/B_Black/1_2016_UBCStandard_Signature_BlackRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/1_2016_UBCStandard_signature/C_Reverse/1_2016_UBCStandard_Signature_ReverseRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/2_2016_UBCNarrow_signature/A_Blue282/2_2016_UBCNarrow_Signature_BlueRGB72.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/2_2016_UBCNarrow_signature/A_Blue282/2_2016_UBCNarrow_Signature_BlueRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/2_2016_UBCNarrow_signature/B_Black/2_2016_UBCNarrow_Signature_BlackRGB72.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/2_2016_UBCNarrow_signature/B_Black/2_2016_UBCNarrow_Signature_BlackRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/2_2016_UBCNarrow_signature/C_Reverse/2_2016_UBCNarrow_Signature_ReverseRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/3_2016_UBCWordmark/A_Blue282/3_2016_UBCWordmark_Blue282RGB72.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/3_2016_UBCWordmark/A_Blue282/3_2016_UBCWordmark_Blue282RGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/3_2016_UBCWordmark/B_Black/3_2016_UBCWordmark_BlackRGB72.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/3_2016_UBCWordmark/B_Black/3_2016_UBCWordmark_BlackRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/3_2016_UBCWordmark/C_Reverse/3_2016_UBCWordmark_ReverseRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/4_2016_UBCLogo/A_Blue282/4_2016_UBCLogo_BlueRGB72.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/4_2016_UBCLogo/A_Blue282/4_2016_UBCLogo_BlueRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/4_2016_UBCLogo/B_Black/4_2016_UBCLogo_BlackRGB72.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/4_2016_UBCLogo/B_Black/4_2016_UBCLogo_BlackRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/4_2016_UBCLogo/C_Reverse/4_2016_UBCLogo_ReverseRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/5_2016_UBCShortname/A_Blue282/5_2016Shortname_Blue282RGB72.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/5_2016_UBCShortname/A_Blue282/5_2016Shortname_Blue282RGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/5_2016_UBCShortname/B_Black/5_2016_UBCShortname_BlackRGB72.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/5_2016_UBCShortname/B_Black/5_2016_UBCShortname_BlackRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/img/ubc_logos/Screen and Web Files/5_2016_UBCShortname/C_Reverse/5_2016_UBCShortname_ReverseRGB72.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/src/css/resume.css" afterPath="$PROJECT_DIR$/src/css/resume.css" />
-      <change beforePath="$PROJECT_DIR$/src/img/kite.xcf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/kite_colored.xcf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/telescopes.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/About_WebScreenSignaturePackage_v1.0.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/PleaseRead_SignatureGuide/UBC_Signature_Guide_2016_1.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/1_2016_UBCStandard_signature/A_Blue282/1_2016_UBCStandard_Signature_BlueRGB72.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/1_2016_UBCStandard_signature/A_Blue282/1_2016_UBCStandard_Signature_BlueRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/1_2016_UBCStandard_signature/B_Black/1_2016_UBCStandard_Signature_BlackRGB72.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/1_2016_UBCStandard_signature/B_Black/1_2016_UBCStandard_Signature_BlackRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/1_2016_UBCStandard_signature/C_Reverse/1_2016_UBCStandard_Signature_ReverseRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/2_2016_UBCNarrow_signature/A_Blue282/2_2016_UBCNarrow_Signature_BlueRGB72.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/2_2016_UBCNarrow_signature/A_Blue282/2_2016_UBCNarrow_Signature_BlueRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/2_2016_UBCNarrow_signature/B_Black/2_2016_UBCNarrow_Signature_BlackRGB72.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/2_2016_UBCNarrow_signature/B_Black/2_2016_UBCNarrow_Signature_BlackRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/2_2016_UBCNarrow_signature/C_Reverse/2_2016_UBCNarrow_Signature_ReverseRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/3_2016_UBCWordmark/A_Blue282/3_2016_UBCWordmark_Blue282RGB72.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/3_2016_UBCWordmark/A_Blue282/3_2016_UBCWordmark_Blue282RGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/3_2016_UBCWordmark/B_Black/3_2016_UBCWordmark_BlackRGB72.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/3_2016_UBCWordmark/B_Black/3_2016_UBCWordmark_BlackRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/3_2016_UBCWordmark/C_Reverse/3_2016_UBCWordmark_ReverseRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/4_2016_UBCLogo/A_Blue282/4_2016_UBCLogo_BlueRGB72.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/4_2016_UBCLogo/A_Blue282/4_2016_UBCLogo_BlueRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/4_2016_UBCLogo/B_Black/4_2016_UBCLogo_BlackRGB72.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/4_2016_UBCLogo/B_Black/4_2016_UBCLogo_BlackRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/4_2016_UBCLogo/C_Reverse/4_2016_UBCLogo_ReverseRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/5_2016_UBCShortname/A_Blue282/5_2016Shortname_Blue282RGB72.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/5_2016_UBCShortname/A_Blue282/5_2016Shortname_Blue282RGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/5_2016_UBCShortname/B_Black/5_2016_UBCShortname_BlackRGB72.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/5_2016_UBCShortname/B_Black/5_2016_UBCShortname_BlackRGB72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/img/ubc_logos/Screen and Web Files/5_2016_UBCShortname/C_Reverse/5_2016_UBCShortname_ReverseRGB72.png" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -95,8 +32,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="17" column="87" lean-forward="true" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
+            <state relative-caret-position="475">
+              <caret line="454" column="51" lean-forward="true" selection-start-line="454" selection-start-column="51" selection-end-line="454" selection-end-column="51" />
               <folding>
                 <element signature="e#3138#3146#0" expanded="true" />
                 <element signature="e#3162#3170#0" expanded="true" />
@@ -120,8 +57,8 @@
       <file leaf-file-name="resume.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/css/resume.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="116" column="11" lean-forward="true" selection-start-line="116" selection-start-column="11" selection-end-line="116" selection-end-column="11" />
+            <state relative-caret-position="345">
+              <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -183,6 +120,9 @@
       <find>dest</find>
       <find>educa</find>
       <find>date</find>
+      <find>#</find>
+      <find>id</find>
+      <find>id=</find>
     </findStrings>
     <replaceStrings>
       <replace>ndash</replace>
@@ -393,16 +333,15 @@
       <updated>1513898718867</updated>
       <workItem from="1513898720176" duration="2213000" />
       <workItem from="1513906832830" duration="296000" />
-      <workItem from="1513907386612" duration="42154000" />
+      <workItem from="1513907386612" duration="47495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44663000" />
+    <option name="totallyTimeSpent" value="50004000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="CSS Styles" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -575,16 +514,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/css/resume.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="116" column="11" lean-forward="true" selection-start-line="116" selection-start-column="11" selection-end-line="116" selection-end-column="11" />
+        <state relative-caret-position="345">
+          <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="17" column="87" lean-forward="true" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
+        <state relative-caret-position="475">
+          <caret line="454" column="51" lean-forward="true" selection-start-line="454" selection-start-column="51" selection-end-line="454" selection-end-column="51" />
           <folding>
             <element signature="e#3138#3146#0" expanded="true" />
             <element signature="e#3162#3170#0" expanded="true" />
